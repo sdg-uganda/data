@@ -1,0 +1,16 @@
+indicator_name: Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations
+computation_units: Number
+reporting_status: complete
+graph_type: Line
+SDG_INDICATOR: New HIV infections recorded per 1000 of city population
+STAT_CONC_DEF: Population Census StatsSA 1996, 2001, 2011 on ward level (2011 demarcation), Mid-year Population Estimates StatsSA 2002-2018 on district council level (2011 demarcation), Demographic/AIDS model Actuarial Society of SA 2008 on provincial level
+UNIT_MEASURE: Number
+DATA_COMP: Method of computation unknown
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Calculation unclear
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
+

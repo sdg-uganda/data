@@ -1,0 +1,16 @@
+indicator_name: Tuberculosis incidence per 100,000 population
+computation_units: Number per 100,000
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: All TB on ETR incidence (Electronic TB Register)
+STAT_CONC_DEF: TB cases diagnosed (all TB in Electronic TB Register), per 100 000 Total population
+UNIT_MEASURE: Number per 100,000
+DATA_COMP: (TB_INC_ALL) or (DHB_329 x 100000 / ifnull(SAHR_1D,SAHR_1Q))
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Public health facilities only
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
+

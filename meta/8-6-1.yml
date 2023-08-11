@@ -1,0 +1,16 @@
+indicator_name: Proportion of youth (aged 15-24 years) not in education, employment or training
+computation_units: Number
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of youth (aged 15-24 years) not economically active
+STAT_CONC_DEF: Lower youth (15-24) Not economically active (Number)
+UNIT_MEASURE: Number
+DATA_COMP: (#"Not economically active (Number)")/(#"Working age population (Number)")*100
+SOURCE_TYPE: Quantec Youth and adult unemployment (RYUE)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Not economically active is only a proxy indicator for inactive youth
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.easydata.co.za/
+

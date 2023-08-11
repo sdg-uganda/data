@@ -1,0 +1,16 @@
+indicator_name: Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of graduates with information and communications technology (ICT) qualifications
+STAT_CONC_DEF: Enrolled/Graduated, Subject field of study (CESM), Qualification type filtered for 06  Computer and Information Sciences and 0808  Computer Engineering as a total of all graduates
+UNIT_MEASURE: Percentage
+DATA_COMP: DoE Data Collection
+SOURCE_TYPE: Department of Higher Education Enrollment and Graduation Data
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.dhet.gov.za/SitePages/Higher-Education-Management-Information-System.aspx
+

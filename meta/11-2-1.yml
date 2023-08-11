@@ -1,0 +1,16 @@
+indicator_name: Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of population that has convenient access to public transport
+STAT_CONC_DEF: This proxy indicator measures the number of respondents who answered less than 20 minutes to the question "How long does it take to walk from your home to the closest place you can access public transport?" in the QoL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Number of answer to q5_11_pub_transport_prox  that are "0-10 minutes" + "11-20 minutes" / total number of answers
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

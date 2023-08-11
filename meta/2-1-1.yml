@@ -1,0 +1,16 @@
+indicator_name: Prevalence of undernourishment
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Prevalence of undernourishment
+STAT_CONC_DEF: Proxy indicator that uses the Question "In the past 12 months, has there ever been a time when you or any other adult in this household had to skip a meal because there was not enough money to buy food?" in the QOL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Sum of respondents who answered yes to "q6_4_skip_meal" / total respondents
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: This indicator is only a broad proxy for undernourishment
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

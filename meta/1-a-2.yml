@@ -1,0 +1,16 @@
+indicator_name: Proportion of total government spending on essential services (education, health and social protection)
+computation_units: ZAR
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of total government spending on essential services
+STAT_CONC_DEF: Total actual capital expenditure on social services
+UNIT_MEASURE: ZAR
+DATA_COMP: Sum of Audited Actual Capital Expenditure for (0820 Clinics/Care Centres and 1330 Social Housing)
+SOURCE_TYPE: Municipal Money
+source_active_1: True
+DATA_SOURCE: National Treasury
+REC_USE_LIM: Same data used for indicator 1.b.1
+source_organisation_1: National Treasury
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://municipaldata.treasury.gov.za/table/capital_v2/?year=2021&municipalities=JHB&amountType=ADJB
+

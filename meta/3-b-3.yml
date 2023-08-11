@@ -1,0 +1,16 @@
+indicator_name: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+computation_units: Percentage of facilities
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis
+STAT_CONC_DEF: 
+UNIT_MEASURE: Percentage of facilities
+DATA_COMP: Health facilities with essential medicines rate index (DHIS) (DHB_165I)
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Unclear how data is derived in DHIS
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
+

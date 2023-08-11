@@ -1,0 +1,16 @@
+indicator_name: Proportion of domestic budget funded by domestic taxes
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of domestic budget funded by domestic taxes
+STAT_CONC_DEF: Percentage of actual income from Locally generated sources (From residents paying for water & electricity, rates, licenses & fines, and from interest and investments.)
+UNIT_MEASURE: Percentage
+DATA_COMP: Sum of Actual Income (200 Property rates , 300 Service charges - electricity revenue , 400 Service charges - water revenue , 500 Service charges - sanitation revenue , 600 Service charges - refuse revenue)/Total Actual Income
+SOURCE_TYPE: Municipal Money
+source_active_1: True
+DATA_SOURCE: N/A
+REC_USE_LIM: There is a need to define "domestic taxes" in COJ Budget system
+source_organisation_1: N/A
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://municipaldata.treasury.gov.za/table/incexp_v2/?year=2021&municipalities=JHB&amountType=AUDA
+

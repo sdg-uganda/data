@@ -1,0 +1,16 @@
+indicator_name: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Number of Women Victims of violent crime
+STAT_CONC_DEF: Governance Public Safety and Justice Survey results
+UNIT_MEASURE: Percentage
+DATA_COMP: 
+SOURCE_TYPE: Governance Public Safety and Justice Survey
+source_active_1: True
+DATA_SOURCE: UCT - DataFirst
+REC_USE_LIM: Very low levels of reported violence indicates potential issue with data
+source_organisation_1: UCT - DataFirst
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=GPSJS&sort_by=title&sort_order=asc&ps=15
+

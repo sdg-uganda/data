@@ -1,0 +1,16 @@
+indicator_name: Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of the households living in Poverty
+STAT_CONC_DEF: A proxy indicator for the level of poverty using an average of the existing 3 poverty indicators provided through the South Africa Regional eXplorer
+UNIT_MEASURE: Percentage
+DATA_COMP: Average of (Share below the upper poverty line (StatsSA defined)+Share below the food poverty line (StatsSA defined)+Share below the lower poverty line (StatsSA defined))
+SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
+source_active_1: True
+DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Indicator uses the same data as indicator 1.1.1
+source_organisation_1: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

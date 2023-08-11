@@ -1,0 +1,16 @@
+indicator_name: Under-5 mortality rate
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Death under 5 years against live birth rate
+STAT_CONC_DEF: Children under 5 years who died during their stay in the facility as a proportion of all live births
+UNIT_MEASURE: Percentage
+DATA_COMP: (Death in facility 0-6 days) + (Death in facility 7-28 days) + (Death in facility 29 days - 11 months) + (Death in facility 12-59 months) / Live birth in facility
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+source_active_1: True
+DATA_SOURCE: COJ Department of Health
+REC_USE_LIM: Public health facilities only
+source_organisation_1: COJ Department of Health
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

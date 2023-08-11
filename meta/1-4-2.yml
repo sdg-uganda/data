@@ -1,0 +1,16 @@
+indicator_name: Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of total adult population with secure tenure rights to land
+STAT_CONC_DEF: Answered, "Owned" or "Renting"  to the question "Does this household own or rent this dwelling, or live here by some other arrangement?" In the QoL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Sum answer "Owned" or "Renting" for q1_3_tenure / Total respondents
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: When deeds data improves
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

@@ -1,0 +1,16 @@
+indicator_name: Proportion of population living in households with access to basic services
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Proportion of households with access to basic services
+STAT_CONC_DEF: An average of the households who have access to electricity, water, sanitation and waste services, as reported through other SDG Indicators
+UNIT_MEASURE: Percentage
+DATA_COMP: Average of (Percentage of households with access to electricity + Percentage of households with access to basic sanitation + Percentage of households with access to basic water supply + Percentage of households with access to waste removal services)
+SOURCE_TYPE: StastSA Metro Development Indicators
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.statssa.gov.za/publications/P03183/P031832021.pdf
+

@@ -1,0 +1,16 @@
+indicator_name: Installed renewable energy-generating capacity in developing countries (in watts per capita)
+computation_units: MVA
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Installed renewable energy-generating capacity
+STAT_CONC_DEF: The total renewable energy capacity that is available within the municipal jurisdiction via the IPPs, own generation and embedded generators
+UNIT_MEASURE: MVA
+DATA_COMP: ((1) Amount of renewable energy capacity available from IPPs + (2) Amount of renewable energy capacity available from municipal own generation + (3) Total installed capacity of embedded generators)/(4) Total energy capacity available from Eskom.
+SOURCE_TYPE: COJ SDBIP Indicator
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.joburg.org.za/documents_/Pages/Key%20Documents/SDBIP%20IDP%20and%20Budget/links/SDBIP.aspx
+

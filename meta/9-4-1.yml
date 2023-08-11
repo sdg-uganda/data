@@ -1,0 +1,16 @@
+indicator_name: CO2 emission per unit of value added
+computation_units: ZAR/tCO2
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: CO2 emission per unit of value added
+STAT_CONC_DEF: Total GDP in ZAR divided by tCO2e from GHG inventory
+UNIT_MEASURE: ZAR/tCO2
+DATA_COMP: Total GDP in ZAR divided by tCO2e from GHG inventory
+SOURCE_TYPE: C40 Greenhouse Gas Emissions Dashboard Data  and IHS GVA Data
+source_active_1: True
+DATA_SOURCE: COJ Integrated Policy Planning & Research Unit
+REC_USE_LIM: 
+source_organisation_1: COJ Integrated Policy Planning & Research Unit
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US
+

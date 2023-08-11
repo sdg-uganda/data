@@ -1,0 +1,16 @@
+indicator_name: Unemployment rate, by sex, age and persons with disabilities
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Unemployment rate
+STAT_CONC_DEF: Total Unemployment for Working age (15-64)
+UNIT_MEASURE: Percentage
+DATA_COMP: 
+SOURCE_TYPE: Quantec Youth and adult unemployment (RYUE)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: None
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.easydata.co.za/
+

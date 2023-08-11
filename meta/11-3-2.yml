@@ -1,0 +1,16 @@
+indicator_name: Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically
+computation_units: Yes/No
+reporting_status: complete
+graph_type: binary
+SDG_INDICATOR: Is there direct participation structure of civil society in urban planning and management that operate regularly and democratically
+STAT_CONC_DEF: The City of Johannesburg publishes an Integrated Development Plan every year that includes extensive public consultation
+UNIT_MEASURE: Yes/No
+DATA_COMP: No method of computation required
+SOURCE_TYPE: Municipal IDP
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

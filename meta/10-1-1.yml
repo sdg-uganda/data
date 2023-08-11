@@ -1,0 +1,16 @@
+indicator_name: Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population
+computation_units: Rand
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population
+STAT_CONC_DEF: Rand value change in Average household income for bottom 40% as a percentage of total houshold income
+UNIT_MEASURE: Rand
+DATA_COMP: Annual Change of ((#"D001  Lowest income households (10% of households)")+(#"D002  Second lowest income households (10% of households)")+(#"D003  Third lowest income households (10% of households)")+(#"D004  Fourth lowest income households (10% of households)"))
+SOURCE_TYPE: Quantec RHINC - Household Income
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.easydata.co.za/
+

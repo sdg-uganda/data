@@ -1,0 +1,16 @@
+indicator_name: Proportion of population with access to electricity
+computation_units: Percentage of households
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Percentage of households with access to electricity
+STAT_CONC_DEF: Percentage of households that have access to electricity services within the municipal area.
+UNIT_MEASURE: Percentage of households
+DATA_COMP: (#"EE1.1 (1) Number of households with access to electricity")/(#"Total number of households in the municipality (estimate)")*100
+SOURCE_TYPE: StastSA Metro Development Indicators
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.statssa.gov.za/publications/P03183/P031832021.pdf
+

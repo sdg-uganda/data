@@ -1,0 +1,16 @@
+indicator_name: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)
+computation_units: Number per 1,000
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Severe acute malnutrition <5yr incidence
+STAT_CONC_DEF: Under-5-year-olds newly diagnosed with severe acute malnutrition, per 1 000 0-4yr population.
+UNIT_MEASURE: Number per 1,000
+DATA_COMP: Severe acute malnutrition <5yr incidence x 1000 / Population under 4 years
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Data only available to 2013
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
+

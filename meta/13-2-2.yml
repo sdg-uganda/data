@@ -1,0 +1,16 @@
+indicator_name: Total greenhouse gas emissions per year
+computation_units: tCO2e
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Total greenhouse gas emissions per year
+STAT_CONC_DEF: As reported in the C40 Greenhouse Gas Emissions Dashboard Data 
+UNIT_MEASURE: tCO2e
+DATA_COMP: An inventory reporting level that covers all BASIC sources, plus scope 1 AFOLU and IPPU, and scope 3 in the Stationary Energy and Transportation sectors.
+SOURCE_TYPE: C40 Greenhouse Gas Emissions Dashboard Data 
+source_active_1: True
+DATA_SOURCE: COJ Environment Infrastructure Service Department
+REC_USE_LIM: Data only available for 2014 and 2016
+source_organisation_1: COJ Environment Infrastructure Service Department
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://www.c40knowledgehub.org/s/article/C40-cities-greenhouse-gas-emissions-interactive-dashboard?language=en_US
+

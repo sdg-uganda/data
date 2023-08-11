@@ -1,0 +1,16 @@
+indicator_name: Number of countries with mechanisms in place to enhance policy coherence of sustainable development
+computation_units: Yes/No
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Does the COJ have mechanisms in place to enhance policy coherence of sustainable development
+STAT_CONC_DEF: Does the city report SDG progress
+UNIT_MEASURE: Yes/No
+DATA_COMP: No method of computation required
+SOURCE_TYPE: SDG Reporting Platform
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

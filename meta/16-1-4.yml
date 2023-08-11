@@ -1,0 +1,16 @@
+indicator_name: Proportion of population that feel safe walking alone around the area they live after dark
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of population that feel safe walking alone around the area they live after dark
+STAT_CONC_DEF: Survey participants who answered a "Bit unsafe" and "Very unsafe" to the question "How safe do you feel walking in the area where you live after dark? In the QoL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Number of answer to q11_4_night_safety  "Bit unsafe" + "Very unsafe" / total number of answers
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: Only for 1 year
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Original SDG Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

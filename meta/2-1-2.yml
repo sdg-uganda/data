@@ -1,0 +1,16 @@
+indicator_name: Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Prevalence of moderate or severe food insecurity in the population
+STAT_CONC_DEF: Percentage of households with persons 60 years and older and classified as Food access adequate in the Stats SA Metro Social Development Indicators
+UNIT_MEASURE: Percentage
+DATA_COMP: Percentage of households with persons 60 years and older and classified as Food access adequate
+SOURCE_TYPE: StastSA Metro Development Indicators
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: 
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.statssa.gov.za/publications/P03183/P031832021.pdf
+

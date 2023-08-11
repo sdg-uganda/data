@@ -1,0 +1,16 @@
+indicator_name: Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)
+computation_units: ZAR
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Total expenditure on the preservation, protection and conservation of all cultural and natural heritage
+STAT_CONC_DEF: Total actual capital expenditure on cultural assests
+UNIT_MEASURE: ZAR
+DATA_COMP: Sum of Audited Actual Capital Expenditure for (0850 Museums, 0860 Galleries, 0870 Theatres, 0930 Nature Reserves, 1060 Monuments, 1070 Historic Buildings, 1080 Works of Art, 1090 Conservation Areas 1100 Other Heritage)
+SOURCE_TYPE: Municipal Money
+source_active_1: True
+DATA_SOURCE: National Treasury
+REC_USE_LIM: 
+source_organisation_1: National Treasury
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://municipaldata.treasury.gov.za/table/capital_v2/?year=2021&municipalities=JHB&amountType=ADJB
+

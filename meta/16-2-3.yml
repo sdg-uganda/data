@@ -1,0 +1,16 @@
+indicator_name: Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of people who experienced sexual violence in the past 12 months
+STAT_CONC_DEF: Answered yes to "In the past 12 months, have you had sex because someone physically forced you or because you were afraid they might cause you physical harm if you refused?" In the QoL survey
+UNIT_MEASURE: Percentage
+DATA_COMP: Number who answered yes to q15_16_forced / total respondents
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: Data not provided for age categories
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

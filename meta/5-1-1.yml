@@ -1,0 +1,16 @@
+indicator_name: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex
+computation_units: Yes/No
+reporting_status: complete
+graph_type: binary
+SDG_INDICATOR: Whether or not legal frameworks are in place to promote, enforce and monitor equality and non-discrimination on the basis of sex
+STAT_CONC_DEF: South Africa has extensive legislation in place to promote, enforce and monitor equality and non-discrimination on the basis of sex. This includes The Constitution of the Republic of South Africa, 1996, The Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (PEPUDA), The Employment Equity Act, 1998 and The Employment Equity Act, 1998.
+UNIT_MEASURE: Yes/No
+DATA_COMP: No method of computation required
+SOURCE_TYPE: National Legislation
+source_active_1: True
+DATA_SOURCE: Government of South Africa
+REC_USE_LIM: 
+source_organisation_1: Government of South Africa
+COMPARABILITY: Original SDG Indicator
+source_url_1: 
+

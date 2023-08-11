@@ -1,0 +1,16 @@
+indicator_name: Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Municipal expenditures as a proportion of original approved budget
+STAT_CONC_DEF: Difference between budgeted capital expenditure and what was actually spent.
+UNIT_MEASURE: Percentage
+DATA_COMP: ( ( (Capital V2) capital type code NEW, RENEWAL, UPGRADING, Audited Actual - (Capital V2) capital type code NEW, RENEWAL, UPGRADING, Adjusted Budget ) / (Capital V2) capital type code NEW, RENEWAL, UPGRADING, Adjusted Budget ) * 100
+SOURCE_TYPE: Municipal Money
+source_active_1: True
+DATA_SOURCE: National Treasury
+REC_USE_LIM: 
+source_organisation_1: National Treasury
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://municipaldata.treasury.gov.za/table/capital_v2/?year=2021&municipalities=JHB&amountType=ADJB
+

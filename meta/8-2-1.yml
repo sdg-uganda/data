@@ -1,0 +1,16 @@
+indicator_name: Annual growth rate of real GDP per employed person
+computation_units: Rand per person
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Annual growth rate of real GDP per employed person
+STAT_CONC_DEF: Change in Gross Domestic Product - Constant 2015 Prices divided by number of labour force
+UNIT_MEASURE: Rand per person
+DATA_COMP: Annual change in GDP / Total Labour Force
+SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
+source_active_1: True
+DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Original SDG Indicator
+source_url_1: 
+

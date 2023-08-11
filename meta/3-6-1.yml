@@ -1,0 +1,16 @@
+indicator_name: Death rate due to road traffic injuries
+computation_units: Percentage decrease
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Percentage decrease in road fatalities
+STAT_CONC_DEF: The indicator is meant to measure the reduction of fatalities as a result of people's ability to abide by the law. This indicator assists in measuring the extent at which citizens comply with the traffic law and regulations.
+UNIT_MEASURE: Percentage decrease
+DATA_COMP: Number of road accident fatalities of a specific financial year compared to the number of fatalities of the previous finance year
+SOURCE_TYPE: COJ SDBIP Indicator
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.joburg.org.za/documents_/Pages/Key%20Documents/SDBIP%20IDP%20and%20Budget/links/SDBIP.aspx
+

@@ -1,0 +1,16 @@
+indicator_name: Health worker density and distribution
+computation_units: Number per 100,000
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Health worker density index
+STAT_CONC_DEF: Medical practitioners, professional nurses and pharmacists per uninsured population were rescaled from 0-100 against thresholds of 30, 100 and 5 per 10 000. The index was calculated as the geometric mean of the 3 scaled scores. Based on SDG indicator 3.c.1 with a modified scaling approach as described by Lozano et al. 2018.
+UNIT_MEASURE: Number per 100,000
+DATA_COMP: No method of computation available
+SOURCE_TYPE: District Health Information System (DHIS)
+source_active_1: True
+DATA_SOURCE: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Public health facilities only
+source_organisation_1: Quantec - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://za.dhis.dhmis.org/dhis-web-commons/security/login.action
+

@@ -1,0 +1,16 @@
+indicator_name: Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable
+computation_units: Percentage
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Proportion of population receiving a social grant
+STAT_CONC_DEF: A proxy indicator calculated from the percentage of people who answered Yes to the question " Does anybody in this household receive a social grant of any type, such as an old age pension, child care or disability grant?"
+UNIT_MEASURE: Percentage
+DATA_COMP: Sum of respondents who answered yes to "q14_10_social_grant" / total respondents
+SOURCE_TYPE: Quality of Life Survey
+source_active_1: True
+DATA_SOURCE: Gauteng City-Region Observatory (GCRO)
+REC_USE_LIM: Data not disaggregated by children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable
+source_organisation_1: Gauteng City-Region Observatory (GCRO)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=Qol&sort_by=title&sort_order=asc&ps=15
+

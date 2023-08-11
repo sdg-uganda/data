@@ -1,0 +1,16 @@
+indicator_name: Tourism direct GDP as a proportion of total GDP and in growth rate
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Tourism direct GDP as a proportion of total GDP and in growth rate
+STAT_CONC_DEF: Total Tourist spend as % of GDP (Current prices)
+UNIT_MEASURE: Percentage
+DATA_COMP: Total Tourist spend as % of GDP (Current prices)
+SOURCE_TYPE: IHS Data Platform, South Africa Regional eXplorer 2374
+source_active_1: True
+DATA_SOURCE: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: 
+source_organisation_1: IHS - COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Original SDG Indicator
+source_url_1: 
+

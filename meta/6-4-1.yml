@@ -1,0 +1,16 @@
+indicator_name: Change in water-use efficiency over time
+computation_units: Percentage of kilolitres
+reporting_status: complete
+graph_type: bar
+SDG_INDICATOR: Percentage of Total water losses
+STAT_CONC_DEF: Percentage total (apparent and real) losses, expressed in terms of annual volume lost per service connection per day.
+UNIT_MEASURE: Percentage of kilolitres
+DATA_COMP: ((1) System input volume- (2) Authorised consumption volume) in m3 x 1000) / (365 x (3) Number of service connections)) *100
+SOURCE_TYPE: COJ SDBIP Indicator
+source_active_1: True
+DATA_SOURCE: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+REC_USE_LIM: Future COJ Circular 88 Indicator
+source_organisation_1: COJ Group Strategy Policy Coordination and Relations (GSPCR)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.joburg.org.za/documents_/Pages/Key%20Documents/SDBIP%20IDP%20and%20Budget/links/SDBIP.aspx
+

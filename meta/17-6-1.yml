@@ -1,0 +1,16 @@
+indicator_name: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
+computation_units: Percentage Households
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Percentage of households with Fixed Internet broadband
+STAT_CONC_DEF: Answer Yes to Internet connection in the household
+UNIT_MEASURE: Percentage Households
+DATA_COMP: Households who answered YES to the questions "Internet connection in the household"/Total Households
+SOURCE_TYPE: South Africa - General Household Survey
+source_active_1: True
+DATA_SOURCE: UCT - DataFirst
+REC_USE_LIM: At a household level rather than individual and only for 1 year
+source_organisation_1: UCT - DataFirst
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/?page=1&sk=ghs&sort_by=title&sort_order=asc&ps=15
+

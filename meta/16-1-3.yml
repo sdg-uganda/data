@@ -1,0 +1,16 @@
+indicator_name: Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months
+computation_units: Number per 100,000
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Number of people subjected to (a) physical violence and (b) sexual violence in the previous 12 months per 100,000 of population
+STAT_CONC_DEF: Crimes per 100 000 including Sexual offences, Robbery with aggravating circumstances, Assault with the intent to inflict grievous bodily harm
+UNIT_MEASURE: Number per 100,000
+DATA_COMP: No computation. Values are copied directly from Urban Safety Report
+SOURCE_TYPE: State of Urban Safety Report
+source_active_1: True
+DATA_SOURCE: South African Cities Network (SACN)
+REC_USE_LIM: See Urban Safety Report for limitations
+source_organisation_1: South African Cities Network (SACN)
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://ckan.scoda.co.za/dataset?tags=urban+safety
+

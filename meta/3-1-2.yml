@@ -1,0 +1,16 @@
+indicator_name: Proportion of births attended by skilled health personnel
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Delivery in facility rate
+STAT_CONC_DEF: Deliveries in health facilities as proportion of expected deliveries in the population. Expected deliveries are estimated as population under 1 year multiplied by 1.025 to compensate for still births and infant mortality.
+UNIT_MEASURE: Percentage
+DATA_COMP: (Delivery 10-14 years in facility) + (Delivery 15-19 years in facility) + (Delivery 20 years and older in facility) / ((Female under 1 year) + (Male under 1 year)) * 1.07
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+source_active_1: True
+DATA_SOURCE: COJ Department of Health
+REC_USE_LIM: Public health facilities only
+source_organisation_1: COJ Department of Health
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

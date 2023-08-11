@@ -1,0 +1,16 @@
+indicator_name: Maternal mortality ratio
+computation_units: Percentage
+reporting_status: complete
+graph_type: line
+SDG_INDICATOR: Maternal mortality in facility ratio
+STAT_CONC_DEF: Maternal death is death occurring during pregnancy, childbirth and the puerperium of a woman while pregnant or within 42 days of termination of pregnancy, irrespective of the duration and site of pregnancy and irrespective of the cause of death (obstetric and non-obstetric) per 100,000 live births in facility
+UNIT_MEASURE: Percentage
+DATA_COMP: Maternal death in facility / (Live birth in facility) + (Born alive before arrival at facility)
+SOURCE_TYPE: COJ Integrated Policy Planning & Research Unit Data
+source_active_1: True
+DATA_SOURCE: COJ Department of Health
+REC_USE_LIM: Public health facilities only
+source_organisation_1: COJ Department of Health
+COMPARABILITY: Domesticated Indicator
+source_url_1: 
+

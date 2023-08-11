@@ -1,0 +1,16 @@
+indicator_name: Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change
+computation_units: Yes/No
+reporting_status: complete
+graph_type: binary
+SDG_INDICATOR: Does COJ policy align with the nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change?
+STAT_CONC_DEF: 
+UNIT_MEASURE: Yes/No
+DATA_COMP: No method of computation required
+SOURCE_TYPE: Climate Action Plan City Of Johannesburg
+source_active_1: True
+DATA_SOURCE: TBC
+REC_USE_LIM: 
+source_organisation_1: TBC
+COMPARABILITY: Domesticated Indicator
+source_url_1: https://www.joburg.org.za/departments_/Documents/EISD/City%20of%20Johannesburg%20-%20Climate%20Action%20Plan%20%28CAP%29.pdf
+
